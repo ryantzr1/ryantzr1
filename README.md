@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**ryantzr1/ryantzr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm passionate about Machine Learning, AI Research, and building software that changes the world. I'm particularly interested in Deep Learning and Computer Vision.
 
-Here are some ideas to get you started:
+💼 Notable Projects
+- [Fine-tuning Large Language Models (DeepSeek Base)](https://github.com/ryantzr1/fine-tuning-llm): Exploring the use of Low Rank Adapters (LoRA) for efficient model fine-tuning and deployment.
+- [Predicting Singlife clients' purchasing behaviors](https://github.com/ryantzr1/NUS-Datathon-2024): Won 2nd Place in the ML category at NUS Datathon 2024.
+- [FRIDAY Conversational AI Agent](https://github.com/ryantzr1/FRIDAY-1): A platform for knowledge base understanding, training, and customer service. Won 1st Place (AI/ML Category) at NUS Fintech Hackathon 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Favourite Research Papers
+- ["One-Shot Learning of Object Categories" by Fei-Fei et al.](http://vision.stanford.edu/documents/Fei-FeiFergusPerona2006.pdf): Pioneering work on learning new object categories from a single example.
+- ["Attention Is All You Need" by Vaswani et al.](https://arxiv.org/abs/1706.03762): Fundamental paper introducing the Transformer model, revolutionizing natural language processing.
+- ["A Feature Integration Theory of Attention" by Treisman and Gelade](https://www.sciencedirect.com/science/article/abs/pii/0010028580900055): Influential theory on how humans integrate different features of objects to focus attention.
+
+🌱 Learning and Goals
+- Currently deepening my understanding of Natural Language Processing (NLP), advanced Deep Learning techniques, and Computer Vision.
+- Aiming to contribute to AI research and develop innovative solutions to real-world problems.
+- Actively participating in Kaggle competitions to sharpen my skills and collaborate with the global data science community.
+
+⚡ Fun Fact
+When I'm not immersed in AI and Deep Learning, I enjoy learning new languages and exploring different cultures.
+
+Feel free to explore my repositories, and let's connect if you share similar interests or have exciting ideas to discuss!
