@@ -2,6 +2,8 @@
 
 Hi, I'm passionate about Machine Learning, AI Research, and building software that changes the world. I'm particularly interested in LLM Evaluation Space.
 
+Focused on building [EvalHub](https://github.com/ryantzr1/evalhub) right now.
+
 💼 Notable Projects
 - [EvalHub](https://github.com/ryantzr1/evalhub): A platform designed to help researchers and developers discover evaluation metrics for their machine learning models, streamlining the process of evaluating AI models.
 - [Fine-tuning Large Language Models (DeepSeek Base)](https://github.com/ryantzr1/fine-tuning-llm): Exploring the use of Low Rank Adapters (LoRA) for efficient model fine-tuning and deployment.
