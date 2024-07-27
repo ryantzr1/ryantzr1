@@ -7,8 +7,9 @@ Focused on building [EvalHub](https://github.com/ryantzr1/evalhub) right now.
 💼 Notable Projects
 - [EvalHub](https://github.com/ryantzr1/evalhub): A platform designed to help researchers and developers discover evaluation metrics for their machine learning models, streamlining the process of evaluating AI models.
 - [Fine-tuning Large Language Models (DeepSeek Base)](https://github.com/ryantzr1/fine-tuning-llm): Exploring the use of Low Rank Adapters (LoRA) for efficient model fine-tuning and deployment.
-- [Predicting Singlife clients' purchasing behaviors](https://github.com/ryantzr1/NUS-Datathon-2024): Won 2nd Place in the ML category at NUS Datathon 2024.
 - [FRIDAY Conversational AI Agent](https://github.com/ryantzr1/FRIDAY-1): A platform for knowledge base understanding, training, and customer service. Won 1st Place (AI/ML Category) at NUS Fintech Hackathon 2023.
+- [Predicting Singlife clients' purchasing behaviors](https://github.com/ryantzr1/NUS-Datathon-2024): Won 2nd Place in the ML category at NUS Datathon 2024.
+
 
 📚 Favourite Research Papers
 - ["One-Shot Learning of Object Categories" by Fei-Fei et al.](http://vision.stanford.edu/documents/Fei-FeiFergusPerona2006.pdf): Pioneering work on learning new object categories from a single example.
