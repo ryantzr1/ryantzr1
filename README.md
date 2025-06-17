@@ -4,7 +4,7 @@ I'm Ryan, passionate about exploring the frontiers of AI technology, with a focu
 
 Currently working on **OpenAlita** and diving deep into AI agent research.
 
-💼 Notable Projects
+💼 What I've worked on:
 
 - **OpenAlita**: Building an AI agent framework that pushes the limits of intelligent systems and autonomous decision-making. Inspired by the incredible work of the Alita team.  
   *URL*: [github.com/ryantzr1/OpenAlita](https://github.com/ryantzr1/OpenAlita)
